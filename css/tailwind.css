@@ -1,0 +1,10 @@
+/* purgecss start ignore */
+@tailwind base;
+
+body {
+  font-weight: 300;
+}
+
+@tailwind components;
+/* purgecss end ignore */
+@tailwind utilities;
